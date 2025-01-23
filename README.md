@@ -13,3 +13,13 @@ You can install this library using pip:
 ```bash
 pip install pyjokers
 ```
+
+## For example
+```
+from pyjokers import PyJokers
+
+joke_gen = PyJokers()
+print(joke_gen.get_joke('programmer jokes'))
+print(joke_gen.get_joke('cold jokes'))
+print(joke_gen.get_joke())  # Random category
+```
