@@ -23,3 +23,6 @@ print(joke_gen.get_joke('programmer jokes'))
 print(joke_gen.get_joke('cold jokes'))
 print(joke_gen.get_joke())  # Random category
 ```
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
