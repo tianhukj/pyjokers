@@ -5,6 +5,7 @@ setup(
     version='0.1.0',
     packages=find_packages(),
     description='A simple joke generator',
+    long_description=open('README.md').read(),
     author='tianhukj',
     author_email='tianhukj@outlook.com',
     url='https://github.com/tianhukj/pyjokers',
