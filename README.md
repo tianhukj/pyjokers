@@ -16,14 +16,15 @@ You can install this library using pip:
 pip install pyjokers
 ```
 
-## For example
+## How to use
 ```
-from pyjokers import PyJokers
+pyjoke
+```
 
-joke_gen = PyJokers()
-print(joke_gen.get_joke('programmer jokes'))
-print(joke_gen.get_joke('cold jokes'))
-print(joke_gen.get_joke())  # Random category
+### Example output
+```
+$ pyjoke
+程序员的日常：写代码，调试，写代码，调试，写代码，调试...（无限循环）
 ```
 
 ## Development
