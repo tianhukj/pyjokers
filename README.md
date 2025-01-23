@@ -2,7 +2,7 @@
 
 [![Build Status](https://github.com/tianhukj/pyjokers/actions/workflows/publish.yml/badge.svg)](https://github.com/tianhukj/pyjokers/actions)
 ![License](https://img.shields.io/github/license/tianhukj/pyjokers.svg)
-[![PyPI version](https://badge.fury.io/py/pyjokers.svg)](https://badge.fury.io/py/pyjokers)
+![PyPI](https://img.shields.io/pypi/v/pyjzq)
 
 PyJokers is a simple Python library that generates random jokes. It supports multiple categories of jokes, including cold jokes and programmer jokes.
 
