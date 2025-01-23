@@ -27,9 +27,9 @@ class PyJokers:
         else:
             return "抱歉，没有这种类型的笑话。"
 
-# 使用示例
-if __name__ == "__main__":
+def main():
     joke_gen = PyJokers()
-    print(joke_gen.get_joke('程序员笑话'))
-    print(joke_gen.get_joke('冷笑话'))
-    print(joke_gen.get_joke())  # 随机类别
+    print(joke_gen.get_joke())
+
+if __name__ == "__main__":
+    main()
